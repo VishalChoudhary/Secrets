@@ -1,4 +1,4 @@
-*.python linguist-detectable=true  
+*.nodejs linguist-detectable=true  
 *.jupyternotebook linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
